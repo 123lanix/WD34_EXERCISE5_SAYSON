@@ -1,0 +1,15 @@
+
+body{
+    background: url("fire-gifs - Copy.html");
+}
+        div{
+            background: rgb(196, 40, 40);
+            color: pink;
+        }
+    .greenbackground{
+        background: #509827;
+        color: yellow;
+    }
+    #sampleId{
+        color: black;
+    }
