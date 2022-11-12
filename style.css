@@ -1,0 +1,74 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+body{
+    background: url("fire-gifs.html") repeat-x;
+}
+        div{
+            background: rgb(196, 40, 40);
+            color: pink;
+            font-family: 'Roboto', sans-serif;
+            letter-spacing: 10px;
+            word-spacing: 50px;
+        }
+    .greenbackground{
+        background: #509827;
+        color: yellow;
+    }
+    #sampleId{
+        color: black;
+    }
+    .sampleBox{
+        background: red;
+        margin: 10px 20px 30px 40px;
+        padding: 40px 20px 30px 40px;
+        border: 5px #898989;
+
+    }
+    -webkit-box-shadow: 37px 35px 5px 7px rgba(0,0,0,0.74);
+    -moz-box-shadow: 37px 35px 5px 7px rgba(0,0,0,0.74);
+    box-shadow: 37px 35px 5px 7px rgba(0,0,0,0.74);
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: light;
+    /*bold, bolder, light, normal*/
+    font-style: italic;
+    text-transform: capitalize;
+    /*lowercase, uppercase, capitalize*/
+    text-decoration: line-through;
+    /*overline, underline, line-through*/
+    text-align: right;
+    .overflowSample{
+        width: 200px;
+        height: 500px;
+        overflow: scroll;
+        text-indent: 20px;
+        
+    }
+    .solid{
+        border: 10px solid tomato;
+    }
+    .dotted{
+        border: 10px dotted teal;
+    }
+    .dashed{
+        border: 10px dashed crimson;
+    }
+    .double{
+        border: 10px double seagreen;
+    }
+    .groove{
+        border: 10px groove purple;
+    }
+    .ridge{
+        border: 10px ridge gray;
+    }
+    .inset{
+        border: 10px dodgerblue;
+    }
+    .outset{
+        border: 10px outset goldenrod;
+    }
+    .radius{
+        border: 10px solid black;
+    }
+    
